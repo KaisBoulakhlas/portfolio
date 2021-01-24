@@ -9,10 +9,10 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Bonjour, je suis ',
+  name: 'Kaïs Boulakhlas',
+  subtitle: 'Expert en ingénierie informatique',
+  cta: 'En savoir plus',
 };
 
 // ABOUT DATA

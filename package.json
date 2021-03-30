@@ -1,9 +1,8 @@
 {
   "name": "gatsby-starter-default",
-  "private": true,
+  "private": false,
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^3.1.1",
     "gatsby-plugin-gatsby-cloud": "^2.1.0",
@@ -22,6 +21,7 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
     "prettier": "2.2.1"
   },
   "keywords": [

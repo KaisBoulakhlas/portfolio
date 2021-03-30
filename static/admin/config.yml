@@ -15,4 +15,4 @@ collections:
       - { name: "image", label: "Image", widget: "image" }
       - { name: "description", label: "Description" , widget: "text" }
       - { name: "link", label: "Link", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { name: "body", label: "Body", widget: "markdown" }

@@ -8,8 +8,4 @@ vvxcvxc
 
 
 
-<!--StartFragment-->
-
-!\[Alt text here](/static/images/myavatar.jpg)
-
-<!--EndFragment-->
+![Alt text here](/static/images/myavatar.jpg)

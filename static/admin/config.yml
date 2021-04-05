@@ -3,13 +3,14 @@ backend:
   repo: KaisBoulakhlas/portfolio
   branch: main
 
-media_folder: "static/images/uploads"
-public_folder: "/images/uploads"
+media_folder: "static/images"
+public_folder: "/images"
 
 collections:
   - name: "projects"
     label: "Projects"
-    folder: "content/portfolio"
+    folder: "content/projects"
+    slug: "{{slug}}"
     create: true
     fields:
       - { name: "title", label: "Title" }
